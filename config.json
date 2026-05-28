@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdrocess",
+        "uuid": 10988978,
+        "checksum": "vg2otj"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
